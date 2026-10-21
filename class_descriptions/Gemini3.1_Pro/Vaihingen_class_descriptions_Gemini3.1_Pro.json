@@ -1,0 +1,62 @@
+{
+    "Impervious surfaces": [
+        "a photo of a Impervious surfaces in the scene. A flat expanse of dark gray asphalt roadway stretching continuously across the urban district.",
+        "a remote sensing photo of Impervious surfaces. Interlocking gray concrete tiles forming a wide pedestrian sidewalk next to structures.",
+        "a satellite image of Impervious surfaces. Expansive hard ground coatings defining a major transportation infrastructure network.",
+        "a top-down view of Impervious surfaces. A smooth paved parking structure with crisp painted lane lines and stall marks.",
+        "a good photo of the Impervious surfaces. Sealed concrete plazas showing uniform gray coloration and completely smooth texture.",
+        "an aerial photo of Impervious surfaces. Private driveways and engineered hardscapes connecting residential properties to the main road.",
+        "a remote sensing scene featuring Impervious surfaces. A multi-lane asphalt expressway displaying high contrast against adjacent lawns.",
+        "a high-resolution satellite view of Impervious surfaces. Crisp geometric boundaries of paved concrete walkways and tarred blacktops."
+    ],
+    "Building": [
+        "a photo of a Building in the scene. A large rectangular industrial structure with a flat concrete roof casting a sharp side shadow.",
+        "a remote sensing photo of Building. High-density residential houses topped with distinct gabled roofs and prominent chimneys.",
+        "a satellite image of Building. Symmetrical multi-story apartment complexes forming a rigid geometric block layout.",
+        "a top-down view of Building. Modern commercial facilities showcasing sharp right-angled corners and metallic roof ventilation systems.",
+        "a good photo of the Building. A detached suburban home showing clear roof boundaries and an attached side garage.",
+        "an aerial photo of Building. Corporate skyscrapers casting elongated dark shadows across the city street grid.",
+        "a remote sensing scene featuring Building. A mixture of multi-level brick structures and expansive warehouse rooftops.",
+        "a high-resolution satellite view of Building. Crisp architectural outlines of residential and commercial properties showing diverse roof textures."
+    ],
+    "Low vegetation": [
+        "a photo of a Low vegetation in the scene. A manicured green grass lawn spreading uniformly between urban properties.",
+        "a remote sensing photo of Low vegetation. Patches of soft green ground cover filling the open spaces within a traffic roundabout.",
+        "a satellite image of Low vegetation. Open public park meadows showcasing a smooth, uniform vegetative texture.",
+        "a top-down view of Low vegetation. Rectangular backyard turf plots neatly bordered by residential wooden fences.",
+        "a good photo of the Low vegetation. Low-lying green lawns showing crisp outer boundaries with zero tree canopy occlusion.",
+        "an aerial photo of Low vegetation. Symmetrical grass fields and decorative ground greenery accenting a backyard layout.",
+        "a remote sensing scene featuring Low vegetation. Flat pastures and low herbaceous plants running alongside a paved sidewalk.",
+        "a high-resolution satellite view of Low vegetation. A continuous carpet of fine turf grass with distinct geometric edges."
+    ],
+    "Tree": [
+        "a photo of a Tree in the scene. A tall specimen with a dense, rounded green canopy casting a prominent shadow.",
+        "a remote sensing photo of Tree. Clusters of mature woodland vegetation displaying rich, bumpy textures from overlapping crowns.",
+        "a satellite image of Tree. Rows of dense foliage lining a suburban avenue, partially obscuring the pavement below.",
+        "a top-down view of Tree. Irregularly shaped individual treetop crowns showing natural color variations and shadows.",
+        "a good photo of the Tree. A massive spreading canopy with detailed organic edges visible from an overhead perspective.",
+        "an aerial photo of Tree. High-density wooded clusters forming an unbroken canopy layer over a park section.",
+        "a remote sensing scene featuring Tree. Scattered deciduous and coniferous crowns interspaced throughout a residential zone.",
+        "a high-resolution satellite view of Tree. Highly granular texture of tree foliage showcasing distinct individual crown boundaries."
+    ],
+    "Car": [
+        "a photo of a Car in the scene. A small colorful rectangular automobile parked inside a designated roadside slot.",
+        "a remote sensing photo of Car. Multiple vehicles lined up parallel to each other in an outdoor concrete parking lot.",
+        "a satellite image of Car. Tiny metallic specks distributed across an asphalt driveway pavement.",
+        "a top-down view of Car. A white sedan showing a distinct boxy roof profile and windshield outlines.",
+        "a good photo of the Car. An SUV moving inside a marked traffic lane on a main city road.",
+        "an aerial photo of Car. Compact automobiles displaying varying roof colors from a vertical perspective.",
+        "a remote sensing scene featuring Car. A row of transport vehicles parked adjacent to a commercial building block.",
+        "a high-resolution satellite view of Car. Linear arrangements of moving and static vehicles casting miniature shadows on the pavement."
+    ],
+    "Clutter/background": [
+        "a photo of a Clutter/background in the scene. A collection of random objects, construction materials, and wooden pallets scattered on the ground.",
+        "a remote sensing photo of Clutter/background. Irregular items like scaffolding, small storage sheds, and unclassified debris between properties.",
+        "a satellite image of Clutter/background. Unclassified surface elements displaying mixed, ambiguous textures and non-standard shapes.",
+        "a top-down view of Clutter/background. Industrial waste containers, temporary tents, and miscellaneous clutter placed on an unpaved plot.",
+        "a good photo of the Clutter/background. Various unmapped spatial elements showing highly irregular patterns and non-uniform colors next to a fence.",
+        "an aerial photo of Clutter/background. Playground equipment, trampolines, and temporary canvas structures found within backyards.",
+        "a remote sensing scene featuring Clutter/background. Non-standard structures and minor urban elements creating complex ground textures.",
+        "a high-resolution satellite view of Clutter/background. Tiny unidentifiable items and random debris distributed across an open storage yard."
+    ]
+}

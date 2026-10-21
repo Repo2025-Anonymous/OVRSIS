@@ -1,0 +1,72 @@
+{
+    "Background": [
+        "a photo of a background in the scene. Miscellaneous ground elements, scattered debris, and unclassified urban clutter between defined structures.",
+        "a remote sensing photo of background. Assorted small landscape features and transitional zones that do not fall into major land-cover classes.",
+        "a satellite image of background. Unclassified geographic areas displaying mixed textures and ambiguous surface features.",
+        "a top-down view of background. A collection of random ground objects, tiny sheds, and moving shadows scattered across the terrain.",
+        "a good photo of the background. Various unmapped spatial elements showing highly irregular patterns and non-uniform colors.",
+        "an aerial photo of background. A mixture of complex, minor land features serving as a matrix around primary objects.",
+        "a remote sensing scene featuring background. Indistinct terrain anomalies and miscellaneous ground details with no specific geometric regularity.",
+        "a high-resolution satellite view of background. Tiny unidentifiable structures, equipment, and shadows scattered across open spaces."
+    ],
+    "Building": [
+        "a photo of a building in the scene. A sharp rectangular residential structure with a bright red gabled roof casting a dark side shadow.",
+        "a remote sensing photo of building. Expansive industrial warehouses displaying flat gray roofs and distinct geometric outlines.",
+        "a satellite image of building. Multi-story concrete apartment blocks arranged in a high-density urban grid.",
+        "a top-down view of building. Symmetrical commercial complexes showing intricate roof ventilation structures and clean boundaries.",
+        "a good photo of the building. Standard suburban houses with distinct roof peaks and attached paved driveways.",
+        "an aerial photo of building. Modern skyscrapers with reflective metallic rooftops casting elongated shadows onto streets.",
+        "a remote sensing scene featuring building. A cluster of rural modular homes showing uniform spacing and boxy structures.",
+        "a high-resolution satellite view of building. Corporate facilities showcasing crisp right-angled boundaries and smooth roof surfaces."
+    ],
+    "Road": [
+        "a photo of a road in the scene. A long, linear asphalt highway with clear white lane markings cutting through the landscape.",
+        "a remote sensing photo of road. A winding rural dirt path carving a light brown ribbon through green vegetation.",
+        "a satellite image of road. A multi-lane concrete expressway junction showing sweeping curves and overpasses.",
+        "a top-down view of road. Intersecting urban streets forming a distinct grid pattern between city blocks.",
+        "a good photo of the road. A straight, dark paved thoroughfare bordered tightly by drainage ditches and sidewalks.",
+        "an aerial photo of road. A narrow paved alleyway weaving tightly through a dense residential neighborhood.",
+        "a remote sensing scene featuring road. Transportation infrastructure showing long continuous strips of smooth gray pavement.",
+        "a high-resolution satellite view of road. A wide expressway corridor displaying painted arrows and directional lane dividers."
+    ],
+    "Water": [
+        "a photo of a water in the scene. A meandering river channel filled with dark blue liquid cutting across open fields.",
+        "a remote sensing photo of water. A calm, rectangular artificial reservoir reflecting the bright sky with sharp concrete edges.",
+        "a satellite image of water. A massive natural lake displaying deep azure coloration and irregular muddy shorelines.",
+        "a top-down view of water. A narrow linear drainage canal slicing straight through an agricultural zone.",
+        "a good photo of the water. A small community retention pond showing a completely smooth, dark reflective surface.",
+        "an aerial photo of water. A coastal estuary displaying complex brackish channels and shallow green mudflats.",
+        "a remote sensing scene featuring water. A winding stream flowing through a dense forest canopy.",
+        "a high-resolution satellite view of water. An interior water body showing distinct aquatic depth gradients and clear margins."
+    ],
+    "Barren": [
+        "a photo of a barren in the scene. A large patch of dry brown earth completely devoid of any green plant cover.",
+        "a remote sensing photo of barren. An unpaved construction site showing rough surface textures and exposed clay.",
+        "a satellite image of barren. Expansive desert terrain displaying uniform beige and tan sand dune formations.",
+        "a top-down view of barren. Rectangular tilled agricultural fields left fallow with dry, light-colored dusty soil.",
+        "a good photo of the barren. Rocky mountain outcrops and arid ground contrasting with nearby managed vegetation.",
+        "an aerial photo of barren. Clear-cut land featuring visible tire tracks and excavation scars on the naked mud.",
+        "a remote sensing scene featuring barren. Open plots of rough brown dirt mixed with gravel alongside a highway.",
+        "a high-resolution satellite view of barren. Denuded land areas showing natural soil erosion patterns and zero vegetation."
+    ],
+    "Forest": [
+        "a photo of a forest in the scene. A dense, continuous canopy of wild green trees covering rugged mountain terrain.",
+        "a remote sensing photo of forest. Extensive woodlands displaying rich, bumpy textures from closely packed tree crowns.",
+        "a satellite image of forest. Massive tracts of deep green pine wilderness extending over an uninhabited region.",
+        "a top-down view of forest. Overlapping tree crowns showing natural variations in dark green and yellowish foliage shades.",
+        "a good photo of the forest. An unbroken green blanket of timberland showing rough, irregular natural outer boundaries.",
+        "an aerial photo of forest. Thick wooded vegetation bordering a natural winding river valley.",
+        "a remote sensing scene featuring forest. Large zones of natural dense woods characterized by granular canopy textures.",
+        "a high-resolution satellite view of forest. A protected woodland ecological reserve with highly irregular edges and diverse canopy density."
+    ],
+    "Agriculture": [
+        "a photo of a agriculture in the scene. Large rectangular farming plots filled with rows of vibrant green crops.",
+        "a remote sensing photo of agriculture. Farmland displaying a patchwork quilt of alternating green and golden fields.",
+        "a satellite image of agriculture. Massive circular crop fields generated by center-pivot automated irrigation systems.",
+        "a top-down view of agriculture. Cultivated fields bounded neatly by narrow rural paths, hedges, and ditches.",
+        "a good photo of the agriculture. A uniform field of mature wheat displaying a smooth golden-yellow texture.",
+        "an aerial photo of agriculture. Ploughed rural land showing parallel rows of freshly tilled dark brown soil ridges.",
+        "a remote sensing scene featuring agriculture. Grid-like rural landscapes stretching across an expansive farming district.",
+        "a high-resolution satellite view of agriculture. Regular linear rows of an orchard plantation showcasing precise grid spacing."
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "ship": [
+        "a photo of a ship in the scene. A long white vessel with a pointed bow cruising forward in the blue open sea.",
+        "a remote sensing photo of ship. A large cargo vessel docked parallel to a harbor concrete pier.",
+        "a satellite image of ship. Several maritime vessels leaving distinct white linear wakes behind them in dark water.",
+        "a top-down view of ship. A rectangular container ship packed tightly with colorful blocks of freight.",
+        "a good photo of the ship. A metallic hull floating near an offshore deepwater mooring point.",
+        "an aerial photo of ship. A tiny motorboat casting a small shadow on shallow coastal turquoise water.",
+        "a remote sensing scene featuring ship. Multiple vessels arranged orderly inside narrow marina slips.",
+        "a high-resolution satellite view of ship. The sharp, streamlined silhouette of a bulk carrier traversing deep ocean waves."
+    ],
+    "storage tank": [
+        "a photo of a storage tank in the scene. A large circular fuel reservoir casting a distinct crescent shadow on the gravel ground.",
+        "a remote sensing photo of storage tank. A cluster of cylindrical industrial containers with flat white roofs.",
+        "a satellite image of storage tank. Symmetrical round chemical vats arranged neatly within a refinery grid.",
+        "a top-down view of storage tank. Perfectly circular structures enclosed by square protective containment dikes.",
+        "a good photo of the storage tank. A massive industrial dome located near a coastal port terminal.",
+        "an aerial photo of storage tank. Multiple silver cylindrical facilities interconnected by an intricate array of pipelines.",
+        "a remote sensing scene featuring storage tank. Rows of bright circular footprints on concrete foundation plots.",
+        "a high-resolution satellite view of storage tank. High-contrast circular layouts sitting adjacent to industrial railway tracks."
+    ],
+    "baseball diamond": [
+        "a photo of a baseball diamond in the scene. A fan-shaped athletic field with a distinct dirt infield and green grass outfield.",
+        "a remote sensing photo of baseball diamond. A recreational sports facility featuring white foul lines forming a sharp quadrant shape.",
+        "a satellite image of baseball diamond. A corner-shaped sports layout with a clear brown clay home plate zone.",
+        "a top-down view of baseball diamond. Symmetrical wedge-shaped playing field nestled inside a public park area.",
+        "a good photo of the baseball diamond. An outdoor sports arena showing a curved fence boundary and marked base paths.",
+        "an aerial photo of baseball diamond. A neatly manicured turf field showing a distinct diamond pattern from above.",
+        "a remote sensing scene featuring baseball diamond. A recreational complex with a semi-circular grandstand structure facing the field.",
+        "a high-resolution satellite view of baseball diamond. Sharp geometric contrast between the tan dirt track and green grassy lawn."
+    ],
+    "tennis court": [
+        "a photo of a tennis court in the scene. A green rectangular playing surface marked with distinct white boundary lines and a central net line.",
+        "a remote sensing photo of tennis court. A blue hardcourt sports facility featuring crisp white grid configurations.",
+        "a satellite image of tennis court. Multiple adjacent athletic rectangles painted terracotta red within a country club.",
+        "a top-down view of tennis court. Symmetrical sports layouts showing white baseline and sideline markings.",
+        "a good photo of the tennis court. An outdoor recreation area bordered by high wire fences and green lawns.",
+        "an aerial photo of tennis court. A single sports court nestled neatly behind a suburban residential building.",
+        "a remote sensing scene featuring tennis court. A public park facility displaying parallel geometric sports grids.",
+        "a high-resolution satellite view of tennis court. Standardized rectangular markings on a hard surface with high color contrast."
+    ],
+    "basketball court": [
+        "a photo of a basketball court in the scene. A rectangular outdoor court featuring painted keys and a center circle.",
+        "a remote sensing photo of basketball court. A hard-surface athletic ground painted bright blue and green.",
+        "a satellite image of basketball court. Small sports rectangles with distinct hoop structure shadows visible at both ends.",
+        "a top-down view of basketball court. A symmetrical urban playground showing standard white court markings.",
+        "a good photo of the basketball court. An outdoor sports venue situated between school buildings and a running track.",
+        "an aerial photo of basketball court. A rectangular recreational space showing clear three-point arc lines.",
+        "a remote sensing scene featuring basketball court. Multiple painted court surfaces positioned side-by-side in a park.",
+        "a high-resolution satellite view of basketball court. A clean geometric layout showing standard athletic court boundaries."
+    ],
+    "ground track field": [
+        "a photo of a ground track field in the scene. A massive oval running track with parallel white lane markings surrounding a central field.",
+        "a remote sensing photo of ground track field. A stadium facility featuring a prominent red or orange synthetic rubber loop.",
+        "a satellite image of ground track field. A large stadium structure enclosing a distinctive symmetrical oval athletic arena.",
+        "a top-down view of ground track field. A giant oval track showing multi-lane curves and straightaways.",
+        "a good photo of the ground track field. An expansive sports complex featuring a curved track loop adjacent to spectator bleachers.",
+        "an aerial photo of ground track field. A school sports arena showing sharp white lines drawn on a dark red oval background.",
+        "a remote sensing scene featuring ground track field. An athletic facility showcasing a vast elongated loop structure.",
+        "a high-resolution satellite view of ground track field. Perfect geometry of a stadium track encompassing a green turf infield."
+    ],
+    "bridge": [
+        "a photo of a bridge in the scene. A linear concrete overpass structure spanning across a wide river channel.",
+        "a remote sensing photo of bridge. A multi-lane highway viaduct passing above an active railway corridor.",
+        "a satellite image of bridge. A long structural span connecting two landmasses over dark coastal water.",
+        "a top-down view of bridge. A straight gray concrete strip casting a prominent shadow onto the valley below.",
+        "a good photo of the bridge. A massive suspension structure showing long cable towers from a vertical view.",
+        "an aerial photo of bridge. An elevated traffic corridor crossing perpendicularly over a wide city avenue.",
+        "a remote sensing scene featuring bridge. A steel highway structure bridging a deep natural ravine.",
+        "a high-resolution satellite view of bridge. Linear transportation infrastructure with visible support piers casting shadows on water."
+    ],
+    "large vehicle": [
+        "a photo of a large vehicle in the scene. An elongated rectangular transit bus driving along a city street lane.",
+        "a remote sensing photo of large vehicle. A massive semi-truck with a white box trailer parked in a depot lot.",
+        "a satellite image of large vehicle. Extended blocky vehicles lined up orderly at a commercial loading dock.",
+        "a top-down view of large vehicle. A heavy industrial dump truck transporting materials inside an open-pit mine.",
+        "a good photo of the large vehicle. A long multi-axle freight carrier traveling on a multi-lane highway.",
+        "an aerial photo of large vehicle. A boxy delivery van casting a distinct rectangular shadow onto the pavement.",
+        "a remote sensing scene featuring large vehicle. Construction machinery and oversized trucks parked on a dirt lot.",
+        "a high-resolution satellite view of large vehicle. The prominent rectangular silhouette of an articulated bus on a transit route."
+    ],
+    "small vehicle": [
+        "a photo of a small vehicle in the scene. A compact colored sedan driving through a suburban road intersection.",
+        "a remote sensing photo of small vehicle. A tiny rectangular car parked parallel to a residential street curb.",
+        "a satellite image of small vehicle. Dozens of small metallic dots packed into a shopping mall parking lot.",
+        "a top-down view of small vehicle. A white passenger car casting a small shadow on a concrete driveway.",
+        "a good photo of the small vehicle. An SUV moving inside the marked lanes of a major expressway.",
+        "an aerial photo of small vehicle. A compact automobile turning into a commercial parking space.",
+        "a remote sensing scene featuring small vehicle. Traffic composed of tiny individual vehicle units on an urban bridge.",
+        "a high-resolution satellite view of small vehicle. Distinct roof colors of sedans and hatchbacks parked in an outdoor lane."
+    ],
+    "helicopter": [
+        "a photo of a helicopter in the scene. A small aircraft with a slender fuselage and visible rotor blades parked on an apron.",
+        "a remote sensing photo of helicopter. A rotary-wing aircraft resting at the center of a marked helipad circle.",
+        "a satellite image of helicopter. An aircraft featuring distinct cross-shaped rotor shadows on a concrete landing zone.",
+        "a top-down view of helicopter. A specialized emergency chopper parked adjacent to a hospital rooftop pad.",
+        "a good photo of the helicopter. A military rotorcraft positioned on the deck of an active aircraft carrier.",
+        "an aerial photo of helicopter. A small private chopper sitting stationery on a grassy airfield lawn.",
+        "a remote sensing scene featuring helicopter. Several twin-rotor aircraft arranged outside an aviation hangar facility.",
+        "a high-resolution satellite view of helicopter. The aerodynamic shape and distinct tail rotor profile visible on an airport taxiway."
+    ],
+    "swimming pool": [
+        "a photo of a swimming pool in the scene. A bright blue rectangular water body situated in a backyard lawn.",
+        "a remote sensing photo of swimming pool. An outdoor aquatic facility with crystalline turquoise water.",
+        "a satellite image of swimming pool. Oval and kidney-shaped water structures adjacent to luxury hotel complexes.",
+        "a top-down view of swimming pool. A clean geometric pool showing a white concrete deck perimeter.",
+        "a good photo of the swimming pool. A large community water basin surrounded by lounge chairs and umbrellas.",
+        "an aerial photo of swimming pool. A private residential pool reflecting bright sunlight next to a gabled house.",
+        "a remote sensing scene featuring swimming pool. Multiple resort water bodies displaying varying shades of light blue.",
+        "a high-resolution satellite view of swimming pool. A crisp rectangular water feature contrasting sharply with surrounding gray pavements."
+    ],
+    "roundabout": [
+        "a photo of a roundabout in the scene. A circular traffic intersection with a green landscaped island at its center.",
+        "a remote sensing photo of roundabout. A ring-shaped road node connecting multiple radial street avenues.",
+        "a satellite image of roundabout. A perfectly circular urban traffic circle decorated with a central fountain.",
+        "a top-down view of roundabout. A donut-shaped pavement structure guiding moving vehicles in a loop.",
+        "a good photo of the roundabout. A suburban road hub featuring curved traffic lanes and directional markings.",
+        "an aerial photo of roundabout. A circular intersection structure linking four incoming highways.",
+        "a remote sensing scene featuring roundabout. A central road ring surrounded by symmetrical residential blocks.",
+        "a high-resolution satellite view of roundabout. A distinct circular asphalt junction showing crisp white lane dividers."
+    ],
+    "soccer ball field": [
+        "a photo of a soccer ball field in the scene. A massive green rectangular turf field with white box markings and goal lines.",
+        "a remote sensing photo of soccer ball field. A stadium pitch displaying an intricate grid or striped grass pattern.",
+        "a satellite image of soccer ball field. A standard athletic facility with a prominent center circle line.",
+        "a top-down view of soccer ball field. A symmetrical rectangular sports arena featuring goal posts at opposite ends.",
+        "a good photo of the soccer ball field. A recreational soccer pitch located within an urban educational campus.",
+        "an aerial photo of soccer ball field. A turf pitch displaying clear penalty area boxes and corner markings.",
+        "a remote sensing scene featuring soccer ball field. An outdoor sports complex containing multiple green football fields.",
+        "a high-resolution satellite view of soccer ball field. High-contrast white geometric lines laid over a uniform green artificial turf."
+    ],
+    "plane": [
+        "a photo of a plane in the scene. A large white passenger aircraft with swept-back wings resting on an airport tarmac.",
+        "a remote sensing photo of plane. A commercial airliner docked at an airport terminal jet bridge.",
+        "a satellite image of plane. Multiple private jets parked in an orderly line along an asphalt taxiway.",
+        "a top-down view of plane. A cross-shaped jet airliner casting a long dark shadow onto the gray ground.",
+        "a good photo of the plane. A stationary fixed-wing aircraft showcasing clear fuselage contours and tail fin.",
+        "an aerial photo of plane. A small single-engine propeller aircraft parked near a grassy runway strip.",
+        "a remote sensing scene featuring plane. A row of transport aircraft positioned outside a maintenance hangar.",
+        "a high-resolution satellite view of plane. The distinct aerodynamic silhouette and wing outlines of an airliner on the apron."
+    ],
+    "harbor": [
+        "a photo of a harbor in the scene. A complex waterfront facility with docks, piers, and moored maritime vessels.",
+        "a remote sensing photo of harbor. A coastal port infrastructure featuring protective breakwaters and calm enclosed water.",
+        "a satellite image of harbor. A busy shipping terminal where multiple large vessels are berthed along wharves.",
+        "a top-down view of harbor. An intricate shoreline network of narrow boat slips and floating walkways.",
+        "a good photo of the harbor. A coastal marina crowded with yachts parked inside organized slips.",
+        "an aerial photo of harbor. An industrial port zone showcasing extensive cargo storage areas and loading berths.",
+        "a remote sensing scene featuring harbor. A sheltered coastal bay filled with docks and small watercraft.",
+        "a high-resolution satellite view of harbor. Engineered shoreline structures extending out into deep blue maritime waters."
+    ]
+}

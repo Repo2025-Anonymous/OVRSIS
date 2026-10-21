@@ -1,0 +1,72 @@
+{
+    "Other": [
+        "a photo of a Other in the scene. A collection of unclassified ground objects, discarded pallets, and random construction clutter on a pavement corner.",
+        "a remote sensing photo of Other. Temporary metal fencing and safety cones arranged irregularly alongside an urban property boundary.",
+        "a satellite image of Other. Miscellaneous surface anomalies and unmapped minor features displaying highly ambiguous textures.",
+        "a top-down view of Other. Industrial waste containers, light poles, and moving shadows distributed across an unpaved open lot.",
+        "a good photo of the Other. A mixture of non-standard landscape elements and mobile equipment lacking specific geometric regularity.",
+        "an aerial photo of Other. Playground facilities, trampolines, and temporary canvas tents set up within a residential plaza layout.",
+        "a remote sensing scene featuring Other. Assorted minor urban clutter and loose materials creating complex patterns on the ground surface.",
+        "a high-resolution satellite view of Other. Tiny unidentifiable objects and temporary storage sheds scattered across a commercial yard."
+    ],
+    "Wall": [
+        "a photo of a Wall in the scene. A long, linear concrete partition casting a sharp, dark side shadow onto the adjacent driveway.",
+        "a remote sensing photo of Wall. The vertical brick side facade of a commercial structure visible from an oblique drone angle.",
+        "a satellite image of Wall. Distinct stone masonry dividers separating adjacent residential properties or neighborhood lots.",
+        "a top-down view of Wall. The narrow top edge of a defensive boundary wall running parallel to a main thoroughfare.",
+        "a good photo of the Wall. A textured concrete barrier wall dividing an active industrial site from a public street corridor.",
+        "an aerial photo of Wall. High boundary fences showing sharp linear geometry enclosing a suburban backyard lawn.",
+        "a remote sensing scene featuring Wall. Structural building partitions and perimeter enclosures casting long, narrow shadows onto pathways.",
+        "a high-resolution satellite view of Wall. Clear geometric outlines of retaining structures and dividing barriers in a dense urban zone."
+    ],
+    "Road": [
+        "a photo of a Road in the scene. A wide multi-lane asphalt avenue painted with clear white lane lines and crosswalk marks.",
+        "a remote sensing photo of Road. A narrow dirt track carving a light brown path through rural agricultural fields.",
+        "a satellite image of Road. An engineered concrete highway interchange showing sweeping curves and complex overpass structures.",
+        "a top-down view of Road. Intersecting city streets forming a rigid grid pattern between high-density urban blocks.",
+        "a good photo of the Road. A straight, seamless blacktop thoroughfare bordered tightly by concrete curbs and drainage lines.",
+        "an aerial photo of Road. A paved suburban lane winding smoothly through a residential neighborhood with attached driveways.",
+        "a remote sensing scene featuring Road. Transportation corridors displaying uniform dark gray textures and painted traffic guidance arrows.",
+        "a high-resolution satellite view of Road. A major multi-lane expressway route showcasing clear contrast against roadside greenery."
+    ],
+    "Vegetation": [
+        "a photo of a Vegetation in the scene. A rich mixture of lush manicured grass lawns and rounded green tree crowns.",
+        "a remote sensing photo of Vegetation. Dense, bumpy clusters of natural wild bushes blanketing a rugged mountain hillside.",
+        "a satellite image of Vegetation. Expansive forest canopies displaying varied shades of deep green and organic textures.",
+        "a top-down view of Vegetation. Symmetrical agricultural crop rows and cultivated fields bounded neatly by rural hedges.",
+        "a good photo of the Vegetation. An unbroken green carpet of meadow turf showing high color uniformity and zero tree cover.",
+        "an aerial photo of Vegetation. Dense wooded foliage and ornamental shrubbery lining a public parkway system.",
+        "a remote sensing scene featuring Vegetation. Natural wild grasslands blending seamlessly into overlapping woodland tree crowns.",
+        "a high-resolution satellite view of Vegetation. Highly granular textures of plant foliage and managed garden greenery with distinct boundaries."
+    ],
+    "Vehicle": [
+        "a photo of a Vehicle in the scene. A small colorful passenger sedan parked neatly within a designated curbside slot.",
+        "a remote sensing photo of Vehicle. Multiple automobiles traveling actively along the marked lanes of an urban avenue.",
+        "a satellite image of Vehicle. Tiny rectangular metallic specks distributed across a shopping mall outdoor parking pavement.",
+        "a top-down view of Vehicle. A white boxy delivery truck casting a distinct rectangular shadow onto the asphalt.",
+        "a good photo of the Vehicle. A large multi-axle transit bus moving smoothly through a marked traffic intersection.",
+        "an aerial photo of Vehicle. Cargo semi-trucks with long trailers lined up orderly at a commercial logistics depot.",
+        "a remote sensing scene featuring Vehicle. A dense column of SUVs and compact cars waiting in line on a multi-lane highway.",
+        "a high-resolution satellite view of Vehicle. Distinct roof profiles of motorized vehicles parked parallel to each other in an outdoor lot."
+    ],
+    "Roof": [
+        "a photo of a Roof in the scene. A bright red gabled residential rooftop featuring a distinct central ridge line.",
+        "a remote sensing photo of Roof. Expansive industrial factory tops showing flat gray concrete surfaces and ventilation vents.",
+        "a satellite image of Roof. Symmetrical blue and silver metallic building coverings arranged in a suburban grid layout.",
+        "a top-down view of Roof. A collection of commercial warehouse tops with blocky geometric structures and skylight windows.",
+        "a good photo of the Roof. A modern architectural covering showcasing sharp corners and reflective metallic panels.",
+        "an aerial photo of Roof. High-density urban housing structures displaying an intricate mosaic of multi-level rooftop designs.",
+        "a remote sensing scene featuring Roof. Interlocking concrete building crowns casting sharp shadows onto adjacent city streets.",
+        "a high-resolution satellite view of Roof. Corporate facility rooftops showcasing crisp right-angled boundaries and uniform color tones."
+    ],
+    "Water": [
+        "a photo of a Water in the scene. A winding river channel filled with brown sediment meandering through open country fields.",
+        "a remote sensing photo of Water. A calm, dark green freshwater lake nestled snugly inside a wooded park area.",
+        "a satellite image of Water. A geometric, rectangular artificial reservoir reflecting the bright sky with concrete edges.",
+        "a top-down view of Water. A narrow linear drainage canal slicing straight through an urban street grid.",
+        "a good photo of the Water. A small community retention pond displaying a completely smooth, dark liquid surface.",
+        "an aerial photo of Water. A coastal estuary displaying complex brackish channels and shallow green mudflats.",
+        "a remote sensing scene featuring Water. Deep azure oceanic waves rolling along a light-colored sandy shoreline.",
+        "a high-resolution satellite view of Water. An interior aquatic body displaying distinct shoreline boundaries and deep blue hues."
+    ]
+}

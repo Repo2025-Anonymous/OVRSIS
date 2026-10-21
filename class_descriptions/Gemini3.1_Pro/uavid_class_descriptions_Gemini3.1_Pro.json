@@ -1,0 +1,82 @@
+{
+    "Background clutter": [
+        "a photo of a Background clutter in the scene. Unclassified construction materials, bicycles, and trash bins piled up randomly on a street corner.",
+        "a remote sensing photo of Background clutter. Assorted street furniture, scaffolding, and temporary metal fences alongside a commercial fence line.",
+        "a satellite image of Background clutter. Miscellaneous unmapped objects and ground anomalies with highly irregular geometric shapes.",
+        "a top-down view of Background clutter. Random plastic tarps, wooden boxes, and scattered debris sitting on an unpaved urban plot.",
+        "a good photo of the Background clutter. Industrial waste containers, billboards, and temporary equipment scattered throughout a public square.",
+        "an aerial photo of Background clutter. A complex mixture of minor urban elements and unclassified materials near a sidewalk.",
+        "a remote sensing scene featuring Background clutter. Non-standard structures and various unmapped ground objects casting complex shadows.",
+        "a high-resolution satellite view of Background clutter. Tiny unidentifiable items and random debris distributed across an open storage yard."
+    ],
+    "Building": [
+        "a photo of a Building in the scene. A multi-story concrete structure showing distinct glass window facades and a flat gray roof.",
+        "a remote sensing photo of Building. High-rise apartment towers with prominent vertical walls visible from an oblique drone angle.",
+        "a satellite image of Building. Large commercial blocks featuring sharp geometric outlines and reflective HVAC equipment on top.",
+        "a top-down view of Building. Symmetrical residential houses showing red gabled rooftops, attached balconies, and crisp property lines.",
+        "a good photo of the Building. A modern office complex casting a long, dark rectangular shadow across the pavement.",
+        "an aerial photo of Building. Dense urban structures featuring highly detailed parapets and intricate side facade patterns.",
+        "a remote sensing scene featuring Building. Interlocking modular concrete blocks separated by narrow inner courtyards.",
+        "a high-resolution satellite view of Building. Corporate facilities showcasing crisp right-angled boundaries and smooth roof surfaces."
+    ],
+    "Road": [
+        "a photo of a Road in the scene. A wide multi-lane asphalt avenue painted with bright white directional arrows and lane dividers.",
+        "a remote sensing photo of Road. A dark gray street surface winding tightly through a dense commercial block.",
+        "a satellite image of Road. An urban expressway intersection showing clear crosswalk markings and concrete curbs.",
+        "a top-down view of Road. A straight paved boulevard bordered by concrete sidewalks and organized pedestrian walkways.",
+        "a good photo of the Road. Seamless tarred blacktop pavement running continuously through a major city district.",
+        "an aerial photo of Road. A narrow vehicular alleyway cutting sharply between high-rise buildings.",
+        "a remote sensing scene featuring Road. Interconnected traffic lanes showing smooth asphalt textures and painted guidelines.",
+        "a high-resolution satellite view of Road. An engineered highway corridor displaying crisp contrast against roadside structures."
+    ],
+    "Tree": [
+        "a photo of a Tree in the scene. A single tall specimen with a dense, rounded green canopy casting a prominent side shadow.",
+        "a remote sensing photo of Tree. Clusters of mature woodland vegetation with rich, bumpy textures lining a city sidewalk.",
+        "a satellite image of Tree. Large green treetop crowns showing natural color variations inside an urban park.",
+        "a top-down view of Tree. Overlapping individual leaf canopies partially obscuring the ground below.",
+        "a good photo of the Tree. A massive spreading deciduous crown showing detailed outer leaf clusters from a vertical perspective.",
+        "an aerial photo of Tree. Linear rows of dense green foliage separating the main road from an outdoor parking lot.",
+        "a remote sensing scene featuring Tree. Scattered individual crowns showcasing distinct irregular organic boundaries.",
+        "a high-resolution satellite view of Tree. Granular texture of a woodland canopy inside an urban green zone."
+    ],
+    "Low vegetation": [
+        "a photo of a Low vegetation in the scene. A neatly trimmed green grass lawn spreading uniformly between residential properties.",
+        "a remote sensing photo of Low vegetation. Patches of soft green ground cover filling the spaces inside a traffic island.",
+        "a satellite image of Low vegetation. Open park meadows showcasing a smooth, light-green vegetative surface.",
+        "a top-down view of Low vegetation. Rectangular garden plots and low-lying bushes bordering a pedestrian pathway.",
+        "a good photo of the Low vegetation. Flat turf areas showing uniform green coloration with zero tree canopy occlusion.",
+        "an aerial photo of Low vegetation. Manicured grass stripes accenting the inner courtyard of an office complex.",
+        "a remote sensing scene featuring Low vegetation. Low shrubbery and herbaceous ground cover running alongside a paved sidewalk.",
+        "a high-resolution satellite view of Low vegetation. A continuous carpet of fine lawn grass with crisp outer borders."
+    ],
+    "Moving car": [
+        "a photo of a Moving car in the scene. A silver sedan captured with a slight motion blur as it travels down a marked street lane.",
+        "a remote sensing photo of Moving car. Multiple colorful vehicles cruising actively along an urban highway avenue.",
+        "a satellite image of Moving car. An automobile positioned mid-transit inside a lane, far from any parking bays.",
+        "a top-down view of Moving car. A boxy vehicle following the curved road marks at a busy intersection.",
+        "a good photo of the Moving car. A dark SUV driving forward on the blacktop road with its roof fully visible.",
+        "an aerial photo of Moving car. Active vehicular traffic flowing in opposite directions along a main city boulevard.",
+        "a remote sensing scene featuring Moving car. A lone white vehicle traveling along an empty stretch of asphalt pavement.",
+        "a high-resolution satellite view of Moving car. A fast-moving compact vehicle navigating an urban thoroughfare."
+    ],
+    "Static car": [
+        "a photo of a Static car in the scene. A small red vehicle parked stationary inside a designated roadside parking slot.",
+        "a remote sensing photo of Static car. Rows of inactive automobiles neatly arranged within an outdoor concrete lot.",
+        "a satellite image of Static car. A white sedan resting motionless on a private residential driveway.",
+        "a top-down view of Static car. Several compact vehicles parked parallel to the street curb outside a commercial building.",
+        "a good photo of the Static car. A stationary SUV casting a crisp, unchanging shadow on the asphalt parking bay.",
+        "an aerial photo of Static car. Vehicles lined up along a dead-end street with no indication of motion.",
+        "a remote sensing scene featuring Static car. Multiple automobiles resting inside marked stalls next to a sidewalk.",
+        "a high-resolution satellite view of Static car. Stationary metallic vehicle bodies packed tightly in an outdoor parking structure."
+    ],
+    "Human": [
+        "a photo of a Human in the scene. A tiny upright silhouette walking slowly across a painted pedestrian crosswalk.",
+        "a remote sensing photo of Human. A small vertical figure casting a distinct elongated shadow onto the gray sidewalk.",
+        "a satellite image of Human. Multiple minuscule specks moving along an urban park pathway.",
+        "a top-down view of Human. A pedestrian wearing a bright jacket visible from an overhead drone perspective.",
+        "a good photo of the Human. An individual person strolling near the entrance of a commercial shop.",
+        "an aerial photo of Human. A few pedestrians scattered across an open concrete public plaza.",
+        "a remote sensing scene featuring Human. A tiny human figure standing stationary near a parked vehicle.",
+        "a high-resolution satellite view of Human. The distinct top-down profile of a person walking on an asphalt walkway."
+    ]
+}
