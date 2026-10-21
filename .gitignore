@@ -1,0 +1,22 @@
+cat > .gitignore <<'EOF'
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+datasets/
+data/
+
+# Training logs
+runs/
+logs/
+EOF
